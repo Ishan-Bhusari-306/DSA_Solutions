@@ -42,6 +42,7 @@ int main()
     : if i can swap two numbers that is if k>=2, then i can reverse any array, regardless of what numbers i have in the array
     : if k==1, then there's no swapping/reversing at all, so i can make any changes to my array
     : therefore if k !=1 then its an automatic yes, else its an automatic no
-
-
+-> what if the array is sorted?
+    :then for whatever value of k, we should return YES
+    :therefore we must check if the array is sorted
 */
