@@ -1,0 +1,7 @@
+Learn Concepts: Understand the ideas behind a problem
+
+Recognize patterns: Notice structures that appears across problems
+
+Solve the problem: Build a clear sequence of logical steps
+
+Express the solution: Write the same algorithm in psuedocode, then implement it in a suitable language
